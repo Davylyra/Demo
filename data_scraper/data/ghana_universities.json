@@ -1,0 +1,48 @@
+{
+  "KNUST": {
+    "url_accessible": true,
+    "last_checked": "2025-12-04T23:57:19.071840",
+    "contact": {
+      "emails": [
+        "uro@knust.edu.gh"
+      ]
+    },
+    "admissions_url_accessible": true,
+    "last_updated": "2025-12-04T23:57:19.362241",
+    "source_urls": [
+      "https://www.knust.edu.gh",
+      "https://www.knust.edu.gh/admissions"
+    ]
+  },
+  "UG": {
+    "url_accessible": true,
+    "last_checked": "2025-12-04T23:57:21.937114",
+    "contact": {
+      "emails": [
+        "302-213850pad@ug.edu.ghP"
+      ]
+    },
+    "admissions_url_accessible": false,
+    "last_updated": "2025-12-04T23:57:22.557758",
+    "source_urls": [
+      "https://www.ug.edu.gh",
+      "https://www.ug.edu.gh/admissions"
+    ]
+  },
+  "UCC": {
+    "url_accessible": true,
+    "last_checked": "2025-12-04T23:57:25.029085",
+    "description": "With over 210 programmes of study, modern facilities, and our accomplished lecturers, University of Cape Coast will equip you to enter a competitive job market.",
+    "contact": {
+      "emails": [
+        "registrar@ucc.edu.gh"
+      ]
+    },
+    "admissions_url_accessible": true,
+    "last_updated": "2025-12-04T23:57:25.841802",
+    "source_urls": [
+      "https://www.ucc.edu.gh",
+      "https://www.ucc.edu.gh/admissions"
+    ]
+  }
+}

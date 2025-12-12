@@ -1,0 +1,44 @@
+{
+  "2024_2025": {
+    "KNUST": {
+      "Medicine": 6,
+      "Engineering": 12,
+      "Pharmacy": 8,
+      "Architecture": 10,
+      "Agriculture": 20,
+      "Science": 16,
+      "Art": 24,
+      "Built Environment": 14
+    },
+    "UG": {
+      "Medicine": 6,
+      "Law": 10,
+      "Business Administration": 15,
+      "Engineering Sciences": 14,
+      "Physical Sciences": 18,
+      "Arts": 22,
+      "Social Sciences": 20
+    },
+    "UCC": {
+      "Education": 22,
+      "Business School": 18,
+      "Health Sciences": 16,
+      "Agriculture": 20,
+      "Computing": 15
+    },
+    "UPSA": {
+      "Business Administration": 24,
+      "ICT": 22,
+      "Law": 18
+    },
+    "UDS": {
+      "Medicine": 8,
+      "Agriculture": 22,
+      "Engineering": 16,
+      "Business": 24
+    }
+  },
+  "last_updated": "2025-12-04T23:57:27.844592",
+  "source": "Ghana Admissions Portal Aggregate",
+  "academic_year": "2024/2025"
+}

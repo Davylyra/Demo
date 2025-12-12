@@ -1,0 +1,83 @@
+{
+  "getfund": {
+    "full_name": "Ghana Education Trust Fund (GETFund)",
+    "type": "government",
+    "coverage": [
+      "local_students",
+      "foreign_study"
+    ],
+    "eligibility": "Ghanaian citizens with financial need and academic merit",
+    "website": "https://getfund.gov.gh",
+    "application_period": "July - September annually",
+    "amount": "Varies by program and level",
+    "contact": "scholarships@getfund.gov.gh",
+    "requirements": [
+      "Ghanaian citizenship",
+      "Admission to accredited institution",
+      "Academic excellence (minimum 2nd class upper)",
+      "Financial need demonstration"
+    ],
+    "last_updated": "2025-12-04T23:57:27.843599"
+  },
+  "mastercard_foundation": {
+    "full_name": "Mastercard Foundation Scholars Program",
+    "type": "international",
+    "coverage": [
+      "tuition",
+      "accommodation",
+      "stipend",
+      "mentorship"
+    ],
+    "eligibility": "African students with leadership potential and financial need",
+    "website": "https://mastercardfdn.org/scholars-program/",
+    "application_period": "Varies by university partner",
+    "amount": "Full scholarship plus living allowance",
+    "focus_areas": [
+      "STEM",
+      "Agriculture",
+      "Health Sciences",
+      "Business"
+    ],
+    "partner_universities": [
+      "University of Ghana",
+      "KNUST",
+      "Ashesi University"
+    ],
+    "last_updated": "2025-12-04T23:57:27.843630"
+  },
+  "ghana_government": {
+    "full_name": "Ghana Government Scholarship Scheme",
+    "type": "government",
+    "coverage": [
+      "international_study",
+      "critical_national_programs"
+    ],
+    "eligibility": "Ghanaian graduates and professionals",
+    "website": "https://moe.gov.gh/scholarships",
+    "application_period": "March - May annually",
+    "focus_areas": [
+      "Medicine",
+      "Engineering",
+      "Agriculture",
+      "ICT"
+    ],
+    "bond_requirement": "Yes - service to Ghana after completion",
+    "last_updated": "2025-12-04T23:57:27.843639"
+  },
+  "cocoa_scholarship": {
+    "full_name": "COCOBOD Scholarship Scheme",
+    "type": "industry",
+    "coverage": [
+      "tuition",
+      "allowance"
+    ],
+    "eligibility": "Children of cocoa farmers and COCOBOD staff",
+    "focus_areas": [
+      "Agriculture",
+      "Cocoa Research",
+      "Food Science"
+    ],
+    "application_period": "June - August annually",
+    "last_updated": "2025-12-04T23:57:27.843647"
+  }
+}
